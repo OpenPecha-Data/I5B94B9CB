@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN5219
   title: མུན་སེལ་ཤེས་རབ་འོད་སྣང་།
-  volume: ''
+  volume:
+    e17f3240a4c14950bfa7baca64e2cd83:
+      image_group_id: I3CN5221
+      title: Volume 1 of mun sel shes rab 'od snang /
+      volume_number: 1
+      total_pages: 214
   author: ''
+ebook_metadata:
+  title: མུན་སེལ་ཤེས་རབ་འོད་སྣང་།
+  author: ''
+  sku: P007093
+  cover: cover.jpg
+  layers:
+  - pagination
